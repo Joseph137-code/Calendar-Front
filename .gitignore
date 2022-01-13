@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+.history/
 
 # testing
 /coverage
@@ -14,8 +15,10 @@
 # misc
 .DS_Store
 .env.local
+.env.development
 .env.development.local
 .env.test.local
+.env.production.local
 .env.production.local
 
 npm-debug.log*
